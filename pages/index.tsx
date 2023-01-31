@@ -38,7 +38,7 @@ export default function Home() {
         </div>
         <div>
           <h1>
-            Second Commit on main
+            A Commit on develop
           </h1>
         </div>
       </main>
